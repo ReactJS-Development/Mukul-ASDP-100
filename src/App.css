@@ -1,0 +1,29 @@
+.header {
+  text-decoration-style: none;
+  background-color: blue;
+  float: inherit;
+  margin-bottom: 20 auto;
+  padding: 25 90px;
+  height: 50px;
+  font-size: 20px;
+}
+
+.mainbody {
+margin-top: 50px;
+}
+
+.footer {
+  font-size: 20px;
+  position: relative;
+  list-style-type: none;
+  width: 100%;
+  background-color: #343c4e;
+  color: white;
+  text-align: justify-all;
+  margin-bottom: 0px;
+  margin-top:40px;
+  clear:both;
+  height: 200px;
+  margin-left: 0px;
+  min-width: 1280px;
+}
